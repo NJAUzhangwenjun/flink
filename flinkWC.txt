@@ -1,0 +1,28 @@
+java    idea    storm
+java    spring  flink
+scala   datasource  flink
+Connected to the target V
+M, address: '127.0.0.1: 11151', transport: 'socket'
+
+
+java    idea    storm
+java    spring  flink
+scala   datasource  flink
+Connected to the target V
+M, address: '127.0.0.1: 11151', transport: 'socket'
+
+java    idea    storm
+java    spring  flink
+scala   datasource  flink
+Connected to the target V
+M, address: '127.0.0.1: 11151', transport: 'socket'
+
+
+java    idea    storm
+java    spring  flink
+scala   datasource  flink
+Connected to the target V
+M, address: '127.0.0.1: 11151', transport: 'socket'
+
+
+
